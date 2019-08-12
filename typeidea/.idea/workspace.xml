@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f47fea1e-46a2-447b-8d67-3d3cda56a601" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/typeidea.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/adminform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typeidea/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typeidea/base_admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typeidea/custom_site.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typeidea/settings/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typeidea/settings/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typeidea/settings/develop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typeidea/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/typeidea/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +21,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1OwzYGbBvrJ7w6rBcDCsy1YNq4U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,6 +41,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python\Django\typeidea\typeidea\typeidea\typeidea" />
+      <recent name="C:\python\Django\typeidea\typeidea\typeidea\templates" />
       <recent name="C:\python\Django\个人博客系统\typeidea\typeidea\settings" />
     </key>
   </component>
@@ -134,6 +97,8 @@
       <workItem from="1564903494658" duration="5293000" />
       <workItem from="1564930308903" duration="9828000" />
       <workItem from="1564970304413" duration="25948000" />
+      <workItem from="1565505746532" duration="23745000" />
+      <workItem from="1565580722478" duration="28685000" />
     </task>
     <servers />
   </component>
