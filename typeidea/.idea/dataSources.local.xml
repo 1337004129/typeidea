@@ -13,5 +13,10 @@
         <auth-type>PASSWORD</auth-type>
       </ssh-properties>
     </data-source>
+    <data-source name="db" uuid="3d90d913-4362-4b7d-b3ba-43df2298f82a">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <auth-required>false</auth-required>
+      <schema-mapping />
+    </data-source>
   </component>
 </project>
